@@ -16,4 +16,5 @@ Model Persistence and Deployment:
 To ensure the long-term usability of the trained model, I used the pickle library. This allowed me to save the model as a file using the pickle.dump() function. Now, the model is ready for deployment in various applications, making it versatile and accessible.
 
 #Lesson Learn
+
 This language detection project showcases not only technical skills in NLP and machine learning but also a methodical approach to data processing and model evaluation. The high accuracy achieved underscores a commitment to delivering reliable and effective solutions in the realm of Natural Language Processing.
